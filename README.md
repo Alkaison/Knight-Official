@@ -24,6 +24,6 @@ A site for Knight Official bot to showcase some of its features & commands.
 
 ## Feedback
 
-If you have any feedback, please reach out to us at Discord and message on Alkaison#6003
+If you have any feedback, please reach out to us at Discord and message on Alkaison#0001
 
  
