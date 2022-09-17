@@ -24,7 +24,7 @@ A site for Knight Official bot to showcase some of its features & commands.
 
 ## Feedback
 
-If you have any feedback, please reach out to us at Discord.
+If you have any feedback, please reach out to us at [Discord](https://discord.gg/dF4PHxbHpA).
 
 ## 💛 Contributing
 
@@ -34,9 +34,7 @@ If you have any feedback, please reach out to us at Discord.
 
 3. If you like this project, give it a ⭐ and **share it** with friends!
 
-4. Join my [discord server](https://discord.gg/dF4PHxbHpA) to discuss on topics.
-
-5. <a href="https://ko-fi.com/alkaison"><b>Support</b></a> my work ☕
+4. <a href="https://ko-fi.com/alkaison"><b>Support</b></a> my work ☕
 
 </br >[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/alkaison)
 
