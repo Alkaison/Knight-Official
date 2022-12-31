@@ -8,7 +8,6 @@
 }
 
 /* scroll bar */
-
 ::-webkit-scrollbar {
   width: 8px;
 }
@@ -57,7 +56,6 @@
 }
 
 /* features */
-
 .features-boxed {
   color: #313437;
   background-color: #eef4f7;
@@ -143,7 +141,6 @@ a {
 }
 
 /* accordion */
-
 * {
   box-sizing: border-box;
 }

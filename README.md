@@ -22,8 +22,8 @@ If you have any feedback, please reach out to us at [Discord](https://discord.gg
 
 ## 💛 Contributing
 
-1. To propose a change in this document or submit a new translation you can [fork this repository](https://github.com/Alkaison/knightofficial.github.io/fork) and submit a **pull request**.
+1. To propose a change in this document or submit a new translation you can [fork this repository](https://github.com/Alkaison/Knight-Official/fork) and submit a **pull request**.
 
-2. Questions about anything? Ask me [here](https://github.com/Alkaison/knightofficial.github.io/issues/new)!
+2. Questions about anything? Ask me [here](https://github.com/Alkaison/Knight-Official/issues/new)!
 
 3. If you like this project, give it a ⭐ and **share it** with friends!
